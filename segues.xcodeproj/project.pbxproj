@@ -14,6 +14,7 @@
 		BD753C41288084E100BB30FD /* segues.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD753C3F288084E100BB30FD /* segues.xcdatamodeld */; };
 		BD753C43288084E300BB30FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD753C42288084E300BB30FD /* Assets.xcassets */; };
 		BD753C46288084E300BB30FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD753C44288084E300BB30FD /* LaunchScreen.storyboard */; };
+		BD753C4E288085EE00BB30FD /* secondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD753C4D288085EE00BB30FD /* secondScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD753C42288084E300BB30FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD753C45288084E300BB30FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD753C47288084E300BB30FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD753C4D288085EE00BB30FD /* secondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BD753C36288084E100BB30FD /* AppDelegate.swift */,
 				BD753C38288084E100BB30FD /* SceneDelegate.swift */,
 				BD753C3A288084E100BB30FD /* ViewController.swift */,
+				BD753C4D288085EE00BB30FD /* secondScreen.swift */,
 				BD753C3C288084E100BB30FD /* Main.storyboard */,
 				BD753C42288084E300BB30FD /* Assets.xcassets */,
 				BD753C44288084E300BB30FD /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				BD753C37288084E100BB30FD /* AppDelegate.swift in Sources */,
 				BD753C39288084E100BB30FD /* SceneDelegate.swift in Sources */,
 				BD753C41288084E100BB30FD /* segues.xcdatamodeld in Sources */,
+				BD753C4E288085EE00BB30FD /* secondScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
